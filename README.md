@@ -1,4 +1,4 @@
-FOR the database :
+#FOR the database :
 You have to just import the 'login_sys.sql' file which is located in 'sql' folder
 
 
